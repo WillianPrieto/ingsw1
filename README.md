@@ -31,6 +31,7 @@ Antes de arrancar la Unidad 1, completá el [test diagnóstico](https://fjlesme.
 |---|---|---|---|
 | 1 | Ingeniería de software: una visión previa | [Ver .pptx](presentaciones/unidad-01-vision-previa.pptx) | [Ver .docx](ejercitarios/unidad-01-ejercitario.docx) |
 | 2 | Ingeniería de Sistemas | [Ver .pptx](presentaciones/unidad-02-ingenieria-de-sistemas.pptx) | [Ver .docx](ejercitarios/unidad-02-ejercitario.docx) |
+| 3 | Procesos del Software y Ciclos de Vida | [Ver .pptx](presentaciones/unidad-03-procesos-del-software.pptx) | [Ver .docx](ejercitarios/unidad-03-ejercitario.docx) |
 
 > Este repositorio se va actualizando a medida que avanza el semestre. Las unidades futuras se agregan a esta tabla en el mismo formato.
 
@@ -75,7 +76,8 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 | Unidad | Fuente principal | Complemento |
 |---|---|---|
 | 1 | Pressman, Cap. 1 | — |
-| 2 | Pressman, Cap. 6 — "Ingeniería de sistemas", pp. 104–133 (6.ª ed.) | Sommerville, Cap. 5 y Cap. 10 |
+| 2 | Pressman, Cap. 6 — "Ingeniería de sistemas", pp. 133–154 (6.ª ed.) | Sommerville, Cap. 5 y Cap. 10 |
+| 3 | Pressman, Caps. 2 y 3 — "El proceso: una visión general" y "Modelos prescriptivos de proceso", pp. 22–76 (6.ª ed.) | Sommerville, Cap. 4 — "Procesos del software" |
 
 > 📌 Nota sobre ediciones: a partir de la 7.ª edición, Pressman eliminó el capítulo dedicado a "Ingeniería de sistemas" como capítulo independiente. Si consultás una edición distinta a la 6.ª, usá Sommerville como referencia principal para la Unidad 2.
 
