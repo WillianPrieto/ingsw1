@@ -6,7 +6,7 @@
 
 ## Tema 1 · El proceso de requerimientos
 
-**1. Define en tus propias palabras qué es la ingeniería de requerimientos.**
+**1. Define en tus propias palabras qué es  la ingeniería de requerimientos.**
 
 _Respuesta:_
 
@@ -20,7 +20,7 @@ _Respuesta:_
 
 ## Tema 2 · Tipos de requerimientos
 
-**3. Ejercicio de relación** (completen con el número que corresponda a cada letra):
+**3. Ejercicio de relacion** (completen con el número que corresponda a cada letra):
 
 | Tipo de requerimiento | Descripción |
 |---|---|
