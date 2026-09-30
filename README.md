@@ -1,6 +1,6 @@
 # Ingeniería de Software I - UNINORTE 2026
 
-Material de cátedra: presentaciones, ejercitarios y el Trabajo Práctico Integrador.
+Material de cátedra: presentaciones, ejercitarios y el Trabajo Práctico Integrador.n
 
 📖 **Bibliografía base:** Pressman, *Ingeniería del Software: Un Enfoque Práctico* (6.ª ed.) · Sommerville, *Ingeniería de Software*
 
